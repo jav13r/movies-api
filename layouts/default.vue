@@ -2,6 +2,9 @@
   <div>
     <b-navbar toggleable="lg" type="dark" variant="info">
       <b-navbar-brand href="/">Merflix</b-navbar-brand>
+      <b-navbar-nav>
+        <b-nav-item href="/top-rated">Top Rated</b-nav-item>
+      </b-navbar-nav>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
